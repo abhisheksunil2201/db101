@@ -1,0 +1,8 @@
+.zig-cache
+.vscode
+zig-out
+superheroes.db
+main.exe
+main.exe.obj
+main.pdb
+sample.db
